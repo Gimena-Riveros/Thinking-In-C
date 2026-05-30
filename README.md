@@ -13,6 +13,8 @@
 Incorporar las bases del lenguaje C, basados en el famoso Kernighan & Ritchie y mas alla . . . 
 <br> <hr>
 
+<h4> <em> <a href="https://www.youtube.com/watch?v=2qxXY18hpR8" target="_blank" > Empecemos por instalar CodeBlocks.</a> </em> </h4>
+<hr>
 <h4> <em> <a href="https://github.com/Gimena-Riveros/Thinking-In-C/blob/main/firstCode.c" target="_blank" > Hello Coders !</a> </em> </h4>
 
 <h4> <em> Buenas practicas de Programacion </em> </h4>
