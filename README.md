@@ -13,7 +13,7 @@
 Incorporar las bases del lenguaje C, basados en el famoso Kernighan & Ritchie y mas alla . . . 
 <br> <hr>
 
-<h4> <em> Hello Coders ! </em> </h4>
+<h4> <em> <a href="https://github.com/Gimena-Riveros/Thinking-In-C/blob/main/firstCode.c" target="_blank" > Hello Coders !</a> </em> </h4>
 
 <h4> <em> Buenas practicas de Programacion </em> </h4>
 
